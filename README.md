@@ -24,6 +24,7 @@ Obs: O programa incorpora dois loops distintos: o loop principal é ativado quan
 🗺️ Funções
 
 Alertas ✔️
+
 Auto ring ✔️
 Cavebot ✔️
 Combinação de Ataques ✔️
