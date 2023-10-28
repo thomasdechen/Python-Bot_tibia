@@ -21,30 +21,19 @@ tibiamap: Marcações do mapa utilizadas para o personagem se movimentar dentro 
 
 Obs: O programa incorpora dois loops distintos: o loop principal é ativado quando o personagem está na área de caça; já o segundo loop é acionado quando o personagem necessita reabastecer seus suprimentos. Nesse cenário, o programa entra em um loop específico que utiliza a pasta "refill_map" para orientar os movimentos pelo minimap.
 
-🗺️ Funções
+| 🗺️ Funções                          | Status |
+|------------------------------------|--------|
+| Alertas                            | ✔️     |
+| Auto ring                          | ✔️     |
+| Cavebot                            | ✔️     |
+| Combinação de Ataques              | ✔️     |
+| Descarte de Frascos                | ✔️     |
+| Depósito de Itens Não Empilhados   | ✔️     |
+| Depósito de Itens Empilhados       | ✔️     |
+| Consumidor de Comida               | ✔️     |
+| Cura                               | ✔️     |
+| Seleção Inteligente de Alvos       | ✔️     |
+| Recarga                            | ✔️     |
+| Coleta Rápida                      | ✔️     |
+| Venda de Frascos                   | ✔️     |
 
-Alertas ✔️
-
-Auto ring ✔️
-
-Cavebot ✔️
-
-Combinação de Ataques ✔️
-
-Descarte de Frascos ✔️
-
-Depósito de Itens Não Empilhados ✔️
-
-Depósito de Itens Empilhados ✔️
-
-Consumidor de Comida ✔️
-
-Cura ✔️
-
-Seleção Inteligente de Alvos ✔️
-
-Recarga ✔️
-
-Coleta Rápida ✔️
-
-Venda de Frascos ✔️
